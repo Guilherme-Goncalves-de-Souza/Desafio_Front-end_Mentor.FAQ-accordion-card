@@ -1,4 +1,4 @@
-# Desafio_Front-end_Mentor.FAQ-accordion-card
+# Desafio Front-end Mentor: FAQ accordion card.
 
 Projeto feito sozinho, colocando em prática meus conhecimentos de HTML, CSS e <strong> SASS </strong>.
 
